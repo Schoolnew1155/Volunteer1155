@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: ScriptGraph_01
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"position":{"xMin":-310.0,"yMin":-163.0,"xMax":-210.0,"yMax":-63.0},"title":"Blender","body":null,"colorTheme":"Classic","guid":"8d4fab46-7381-434a-ba24-f85e394520ed","$type":"Unity.VisualScripting.StickyNote"},{"position":{"xMin":-32.0,"yMin":-165.0,"xMax":68.0,"yMax":-65.0},"title":"Unity","body":null,"colorTheme":"Classic","guid":"4724b8b5-73a9-4e06-8b1f-efe1b264a14e","$type":"Unity.VisualScripting.StickyNote"},{"position":{"xMin":237.0,"yMin":-167.0,"xMax":380.0,"yMax":-67.0},"title":"HTML","body":"https://edudesk.ru/","colorTheme":"Classic","guid":"9c52deaa-28e1-4d5d-8c35-8a72215574d7","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
+    _objectReferences: []
